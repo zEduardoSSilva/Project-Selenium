@@ -9,7 +9,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
-
+import openpyxl
 
 #baixar web driver e colocar ele na mesma pasta do seu codigo
 #chrome - > chromedriver
